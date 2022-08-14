@@ -10,3 +10,5 @@ def except_self(nums):
         result[i] = result[i] * j
         j=j*nums[i]
 return result
+
+print(except_self([7,1,5,3,6,4])
