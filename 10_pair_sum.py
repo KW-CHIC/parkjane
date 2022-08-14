@@ -6,3 +6,5 @@ def pair_sum(nums):
     if i%2 == 0:
       sum+=j
   return sum
+
+print(pair_sum([1,4,3,2])
